@@ -1,6 +1,6 @@
 import threading, requests, random, string
 
-class DOS:
+class HTTP_DOS:
     target = ""
     thread_number = 0
     thread_pool = []
